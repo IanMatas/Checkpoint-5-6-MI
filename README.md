@@ -1,3 +1,4 @@
+@author Ian Matas - 3362997
 # CSCU9T4Practical1
 The starter code for Java Practical exercise number 1 in CSCU9T4  
 This is a Netbeans project but you can import it to an IDE of your choice.  
